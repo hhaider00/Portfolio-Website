@@ -1,0 +1,17 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/bot/bot.png",
+            "title": "Discod Bot",
+            "description": "JavaScript, Discord.js",
+            "url": "wip"
+        },
+        {
+            "cover": "/portfolio/bot/bot.png",
+            "title": "Discod Bot",
+            "description": "JavaScript, Discord.js",
+            "url": "wip"
+        }
+        
+    ]
+}

@@ -8,7 +8,7 @@ import Logo from './Logo';
 const Home = () =>
 {
     var name = "amza";
-    var job = "Computer science"
+    var job = "a computer science"
     var text = "graduate"
     const [letterClass, setLetterClass] = useState('text-animate')
     const nameArray = name.split("");
@@ -23,7 +23,7 @@ const Home = () =>
                     <span className={`${letterClass} _12`}>i,</span>
                     <br/>
                     <span className={`${letterClass} _13`}>I</span>
-                    <span className={`${letterClass} _14`}>'m,</span>
+                    <span className={`${letterClass} _14`}>'m</span>
                 <img src={LogoTitle} alt="developer"/>
                 <AnimatedLetters letterClass={letterClass} strArray={nameArray} index={15}/>
                 <br/>
@@ -32,7 +32,7 @@ const Home = () =>
                 <AnimatedLetters letterClass={letterClass} strArray={text.split("")} index={35}/>
                 </h1>
                 <h2>
-                    Javascript / Java / Python
+                    Javascript / Java / Python / C# 
                 </h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>

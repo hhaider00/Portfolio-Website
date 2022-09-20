@@ -19,9 +19,17 @@ const About = () =>
                 <h1>
                     <AnimatedLetters letterClass={letterClass} strArray={about.split("")} index={15}/>
                 </h1>
-                <p></p>
-                <p></p>
-                <p></p>
+                <p>
+                    During my time at university I made many projects not only as part of my degree but also
+                    in my free time.
+                </p>
+                <p>This allowed my to become proficient in a few core languages used in the industry.</p>
+                <p>These include: Java,C#,Javascript and Python. While being competent in C and C++</p>
+                <p>
+                    I have also learned a few popular frameworks that are used as well. Such as:
+                    Nodejs, Discordjs, Tensorflow, Sklearn, Mocha (Javascript testing), react and uniy game
+                    engine
+                </p>
             </div>
 
             <div className='stage-cube-cont'>

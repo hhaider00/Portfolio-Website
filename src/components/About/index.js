@@ -8,7 +8,7 @@ import Loader from 'react-loaders'
 const About = () =>
 { 
     
-    var about = "about me"
+    var about = "About Me"
     const [letterClass, setLetterClass] = useState('text-animate')
     useEffect(() => { setTimeout(() => { setLetterClass('text-animate-hover')}, 3000)},[])
 

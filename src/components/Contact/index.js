@@ -37,7 +37,7 @@ const Contact = () =>
                     <AnimatedLetters letterClass={letterClass} strArray={title.split("")} index={15} />
                 </h1>
                 <p>
-                    For any indquires feel free to contact me using the form below.
+                    For any inquires feel free to contact me using the form below.
                 </p>
                 <div className='contact-form'>
                     <form ref={refForm} onSubmit={sendEmail}>

@@ -2,7 +2,7 @@
     "portfolio": [
         {
             "cover": "/portfolio/bot/bot.png",
-            "title": "Discod Bot",
+            "title": "Discord Bot",
             "description": "JavaScript, Discord.js",
             "url": "https://github.com/hhaider00/Discord-Music-Bot"
         }

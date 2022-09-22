@@ -50,7 +50,7 @@ return(
         </li>
 
         <li>
-            <a target="_blank" rel='noreferrer' href='https://www.google.com/search?gs_ssp=eJzj4tTP1TcwMU02T1JgNGB0YPBiS8_PT89JBQBASQXT&q=google&rlz=1C1CHBF_en-GBGB864GB864&oq=gog&aqs=chrome.2.69i57j46i199i465i512j46i10i131i199i433i465j0i10i131i433l2j0i10j0i10i131i433l2j46i512j0i271.1687j0j7&sourceid=chrome&ie=UTF-8'>
+            <a target="_blank" rel='noreferrer' href='https://github.com/hhaider00'>
                 <FontAwesomeIcon icon={faGithub} color= '#4d4d4e' />
             </a>
         </li>
